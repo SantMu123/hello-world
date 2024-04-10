@@ -1,3 +1,5 @@
 :root{
-    --color-primary: red;
+    --bg: #171717;
+    --text-color: #fff;
+    --accent: cyan;
 }
